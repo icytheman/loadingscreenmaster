@@ -116,8 +116,6 @@ var l_musicPlaylist = [
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "falls_in_fall.ogg", name: "Dancing in autumn"},
 	{ogg: "chillax.ogg", name: "chilled café- lofi"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
 ];
 
 // Random music order?
